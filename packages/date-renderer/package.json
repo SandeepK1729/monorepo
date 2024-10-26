@@ -1,0 +1,29 @@
+{
+  "name": "@sandeepk1729/date-renderer",
+  "version": "1.0.0",
+  "description": "A package for renderning date ( learning )",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SandeepK1729/monorepo.git"
+  },
+  "keywords": [
+    "date",
+    "renderer"
+  ],
+  "author": "SandeepK1729",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SandeepK1729/monorepo/issues"
+  },
+  "homepage": "https://github.com/SandeepK1729/monorepo#readme",
+  "dependencies": {
+    "@sandeepk1729/date-logic": "^1.0.0"
+  },
+  "publishConfig": {
+     "@sandeepk1729:registry": "https://npm.pkg.github.com/sandeepk1729"
+  }
+}
