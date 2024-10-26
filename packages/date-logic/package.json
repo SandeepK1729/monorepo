@@ -1,0 +1,26 @@
+{
+  "name": "@sandeepk1729/date-logic",
+  "version": "1.0.0",
+  "description": "A package to generate date logic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SandeepK1729/monorepo.git"
+  },
+  "keywords": [
+    "date",
+    "logic"
+  ],
+  "author": "Konda Sandeep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SandeepK1729/monorepo/issues"
+  },
+  "homepage": "https://github.com/SandeepK1729/monorepo#readme",
+  "publishConfig": {
+     "@sandeepk1729:registry": "https://npm.pkg.github.com/sandeepk1729"
+  }
+}
