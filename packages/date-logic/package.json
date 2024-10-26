@@ -1,6 +1,6 @@
 {
   "name": "@sandeepk1729/date-logic",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A package to generate date logic",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/SandeepK1729/monorepo#readme",
   "publishConfig": {
-     "@sandeepk1729:registry": "https://npm.pkg.github.com/sandeepk1729"
+    "@sandeepk1729:registry": "https://npm.pkg.github.com/sandeepk1729"
   }
 }

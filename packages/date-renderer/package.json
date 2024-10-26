@@ -1,6 +1,6 @@
 {
   "name": "@sandeepk1729/date-renderer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package for renderning date ( learning )",
   "main": "index.js",
   "scripts": {
@@ -21,9 +21,9 @@
   },
   "homepage": "https://github.com/SandeepK1729/monorepo#readme",
   "dependencies": {
-    "@sandeepk1729/date-logic": "^1.0.0"
+    "@sandeepk1729/date-logic": "^2.0.0"
   },
   "publishConfig": {
-     "@sandeepk1729:registry": "https://npm.pkg.github.com/sandeepk1729"
+    "@sandeepk1729:registry": "https://npm.pkg.github.com/sandeepk1729"
   }
 }
